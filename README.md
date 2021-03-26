@@ -12,9 +12,20 @@
 **Environment**
 
 ```bash
-    conda install -c anaconda python=3.7
+  conda create --prefix .../miscellaneous
+  conda activate miscellaneous
+```
+
+Hence
+
+```bash
+    conda install -c anaconda python==3.7.7
     
     conda install -c anaconda dask # installs: numpy, pandas
+    conda install -c anaconda python-graphviz # installs: graphviz
+    conda install -c anaconda pywin32 jupyterlab nodejs # installs: requests, urllib3
+    conda install -c anaconda pytest coverage pylint pytest-cov
+    
     conda install -c anaconda xlrd
 ```
 
