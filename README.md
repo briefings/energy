@@ -1,4 +1,4 @@
-### Options
+## Capacity, etc.
 
 <br>
 
@@ -7,7 +7,9 @@
 
 <br>
 
-#### Development Notes
+### Development Notes
+
+<br>
 
 **Environment**
 
@@ -43,7 +45,7 @@ For more about Dask, refer to https://docs.dask.org/en/latest/install.html
 <br>
 <br>
 
-#### References
+### References
 
 * Time Series Analysis
   * [Python datetime.datetime.strptime](https://docs.python.org/3.7/library/datetime.html#datetime.datetime.strptime)
