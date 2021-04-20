@@ -32,7 +32,8 @@ Hence
 	
 	conda install -c anaconda pymc3
 	conda install -c anaconda scikit-learn
-	
+	conda install -c anaconda matplotlib
+	conda install -c anaconda seaborn	
 ```
 
 For more about Dask, refer to https://docs.dask.org/en/latest/install.html
