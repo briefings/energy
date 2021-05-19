@@ -22,18 +22,25 @@ Hence
 
 ```bash
     conda install -c anaconda python==3.7.7
-
+    
     conda install -c anaconda dask # installs: numpy, pandas
     conda install -c anaconda python-graphviz # installs: graphviz
     conda install -c anaconda pywin32 jupyterlab nodejs # installs: requests, urllib3
     conda install -c anaconda pytest coverage pylint pytest-cov
-
+    
+    # For Excel
     conda install -c anaconda xlrd
+    
+    # For Bayesian Modelling
     conda install -c anaconda pymc3
+    
+    # For Modelling
     conda install -c anaconda scikit-learn
+    
+    # Graphing Packages
     conda install -c anaconda matplotlib
     conda install -c anaconda seaborn
-	
+    
     # The next line updates scikit-learn: 0.23.2 -> 0.24.2
     pip install -U imbalanced-learn==0.8.0
 ```
