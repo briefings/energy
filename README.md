@@ -33,6 +33,9 @@ Hence
     conda install -c anaconda scikit-learn
     conda install -c anaconda matplotlib
     conda install -c anaconda seaborn
+	
+	# The next line updates scikit-learn: 0.23.2 -> 0.24.2
+	pip install -U imbalanced-learn==0.8.0
 ```
 
 For more about Dask, refer to https://docs.dask.org/en/latest/install.html
