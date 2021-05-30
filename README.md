@@ -46,6 +46,10 @@ Hence
 	
     # For shell script verification
     pip install shellcheck-py==0.7.2.1
+
+    # For Modelling
+    pip install yellowbrick==1.3.post1
+
 ```
 
 For more about Dask, refer to https://docs.dask.org/en/latest/install.html
