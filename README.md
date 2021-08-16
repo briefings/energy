@@ -56,6 +56,16 @@ For more about Dask, refer to https://docs.dask.org/en/latest/install.html
 
 <br>
 
+**Updates**
+
+```bash
+    conda install -c anaconda pillow==8.2.0
+    
+```
+
+
+<br>
+
 **Requirements**
 
 ```bash
