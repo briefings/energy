@@ -59,7 +59,7 @@ For more about Dask, refer to https://docs.dask.org/en/latest/install.html
 **Updates**
 
 ```bash
-    conda install -c anaconda pillow==8.2.0
+    conda install -c anaconda pillow==8.3.0
     
 ```
 
