@@ -23,7 +23,7 @@ Hence
 ```bash
     conda install -c anaconda python==3.7.7
     
-    conda install -c anaconda dask # installs: numpy, pandas
+    conda install -c anaconda dask==2021.10.0 # installs: numpy, pandas
     conda install -c anaconda python-graphviz # installs: graphviz
     conda install -c anaconda pywin32 jupyterlab nodejs # installs: requests, urllib3
     conda install -c anaconda pytest coverage pylint pytest-cov
@@ -59,7 +59,7 @@ For more about Dask, refer to https://docs.dask.org/en/latest/install.html
 **Updates**
 
 ```bash
-    conda install -c anaconda pillow==8.3.0
+    pip install Pillow==9.0.0
     
 ```
 
