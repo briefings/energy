@@ -32,6 +32,7 @@ The set-up includes
     
     # For Excel
     conda install -c anaconda xlrd
+	conda install -c anaconda openpyxl
     
     # For Bayesian Modelling
     conda install -c anaconda pymc3
